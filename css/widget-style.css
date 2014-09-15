@@ -1,0 +1,70 @@
+/* --- Content-Bereich - Text --- */
+.wrapper-mietshop-widget-content { }
+.wrapper-mietshop-widget-content .mietshop-widget-bestseller { }
+.wrapper-mietshop-widget-content .mietshop-widget-highlight { }
+.wrapper-mietshop-widget-content .mietshop-widget-artikelvorschau { }
+.wrapper-mietshop-widget-content .alignleft { margin-right: 20px; }
+.wrapper-mietshop-widget-content .alignright { margin-left: 20px; }
+.wrapper-mietshop-widget-content .alignnone { }
+.wrapper-mietshop-widget-content .alignnone .widget_bestseller { margin: 0 auto; }
+.wrapper-mietshop-widget-content .alignnone .widget_highlight { margin: 0 auto; }
+.wrapper-mietshop-widget-content .alignnone .artikel_vorschau { float: none; margin: 0 auto; }
+
+/* --- Widget-Bereich - Text --- */
+.wrapper-mietshop-widget-widget { }
+.wrapper-mietshop-widget-widget .mietshop-widget-bestseller { }
+.wrapper-mietshop-widget-widget .mietshop-widget-highlight { }
+.wrapper-mietshop-widget-widget .mietshop-widget-artikelvorschau { }
+.wrapper-mietshop-widget-widget .mietshop-widget-artikelvorschau .artikel_vorschau { float: none; }
+.wrapper-mietshop-widget-hinweis { font-size: small; }
+
+/* --- Content-Bereich - iFrame --- */
+.wrapper-mietshop-widget-content-iframe { text-align: center; }
+.wrapper-mietshop-widget-content-iframe iframe.mietshop-widget-bestseller { height: 470px; width: 175px; overflow: hidden; margin: 0; }
+.wrapper-mietshop-widget-content-iframe iframe.mietshop-widget-highlight { height: 340px; width: 175px; overflow: hidden; margin: 0; }
+.wrapper-mietshop-widget-content-iframe iframe.mietshop-widget-artikelvorschau { height: 345px; width: 208px; overflow: hidden; margin: 0; }
+.wrapper-mietshop-widget-content-iframe iframe.alignleft { float: left; margin-right: 10px; }
+.wrapper-mietshop-widget-content-iframe iframe.alignright { float: right; margin-left: 10px; }
+.wrapper-mietshop-widget-content-iframe iframe.alignnone { }
+
+/* --- Widget-Bereich - iFrame --- */
+.wrapper-mietshop-widget-widget-iframe { text-align: center; }
+.wrapper-mietshop-widget-widget-iframe iframe.mietshop-widget-bestseller { height: 460px; width: 185px; overflow: hidden; }
+.wrapper-mietshop-widget-widget-iframe iframe.mietshop-widget-highlight { height: 340px; width: 180px; overflow: hidden; }
+.wrapper-mietshop-widget-widget-iframe iframe.mietshop-widget-artikelvorschau { height: 345px; width: 210px; overflow: hidden; }
+
+/* === Sonder-CSS für Probleme WP/Shop-CSS === */
+.wrapper-mietshop-widget-content .mietshop-widget-bestseller li { margin-left: 0px; }
+.wrapper-mietshop-widget-content .mietshop-widget-bestseller img { box-shadow: none; }
+.wrapper-mietshop-widget-content .mietshop-widget-bestseller div { line-height: 14px; }
+.wrapper-mietshop-widget-content .mietshop-widget-bestseller .preisformat .preiszeile .preis { font-size: 12px; }
+
+.wrapper-mietshop-widget-widget .mietshop-widget-bestseller li { margin-left: 0px; }
+.wrapper-mietshop-widget-widget .mietshop-widget-bestseller img { box-shadow: none; }
+.wrapper-mietshop-widget-widget .mietshop-widget-bestseller div { line-height: 14px; }
+.wrapper-mietshop-widget-widget .mietshop-widget-bestseller .preisformat .preiszeile .preis { font-size: 12px; }
+
+.wrapper-mietshop-widget-content .mietshop-widget-highlight div { line-height: 14px; }
+.wrapper-mietshop-widget-content .mietshop-widget-highlight img { box-shadow: none; }
+.wrapper-mietshop-widget-content .mietshop-widget-highlight .preisformat div.preiszeile { line-height: 25px; }
+.wrapper-mietshop-widget-content .mietshop-widget-highlight .preisformat .preiszeile .waehrung { font-size: 18px; }
+.wrapper-mietshop-widget-content .mietshop-widget-highlight .preisformat .preiszeile .preis { font-size: 22px; }
+
+.wrapper-mietshop-widget-widget .mietshop-widget-highlight div { line-height: 14px; }
+.wrapper-mietshop-widget-widget .mietshop-widget-highlight img { box-shadow: none; }
+.wrapper-mietshop-widget-widget .mietshop-widget-highlight .preisformat div.preiszeile { line-height: 25px; }
+.wrapper-mietshop-widget-widget .mietshop-widget-highlight .preisformat .preiszeile .waehrung { font-size: 18px; }
+.wrapper-mietshop-widget-widget .mietshop-widget-highlight .preisformat .preiszeile .preis { font-size: 22px; }
+
+.wrapper-mietshop-widget-content .mietshop-widget-artikelvorschau .artikel_vorschau .picturecontainer { height: auto; }
+.wrapper-mietshop-widget-content .mietshop-widget-artikelvorschau .artikel_vorschau .description { height: auto; line-height: 12px; }
+.wrapper-mietshop-widget-content .mietshop-widget-artikelvorschau .artikel_vorschau .info { height: auto; }
+.wrapper-mietshop-widget-content .mietshop-widget-artikelvorschau .artikel_vorschau .preiscontainer { height: auto; }
+.wrapper-mietshop-widget-content .mietshop-widget-artikelvorschau .artikel_vorschau .preiscontainer { height: auto; line-height: 17px; }
+.wrapper-mietshop-widget-content .mietshop-widget-artikelvorschau .artikel_vorschau img { box-shadow: none; }
+
+.wrapper-mietshop-widget-widget .mietshop-widget-artikelvorschau .artikel_vorschau .picturecontainer { height: auto; }
+.wrapper-mietshop-widget-widget .mietshop-widget-artikelvorschau .artikel_vorschau .description { height: auto; line-height: 12px; }
+.wrapper-mietshop-widget-widget .mietshop-widget-artikelvorschau .artikel_vorschau .info { height: auto; }
+.wrapper-mietshop-widget-widget .mietshop-widget-artikelvorschau .artikel_vorschau .preiscontainer { height: auto; line-height: 17px; }
+.wrapper-mietshop-widget-widget .mietshop-widget-artikelvorschau .artikel_vorschau img { box-shadow: none; }

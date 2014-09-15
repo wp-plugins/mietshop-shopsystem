@@ -1,0 +1,26 @@
+
+iframe.admin-cosmoshop-widget-vorschau-widget {
+   width: 220px;
+   height: 350px;
+   overflow: hidden;
+} 
+
+iframe.admin-cosmoshop-widget-besteller-widget {
+   width: 185px;
+   height: 455px;
+   overflow: hidden;
+}
+
+iframe.admin-cosmoshop-widget-highlight-widget {
+   width: 185px;
+   height: 350px;
+   overflow: hidden;
+}
+
+#TB_window {
+   overflow: hidden;
+}
+
+i.wysiwyg-cosmoshopwidget-icon {
+   background-image: url('./../pic/wysiwyg_cosmoshopwidget_icon.png');
+}
