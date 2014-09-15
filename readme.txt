@@ -26,12 +26,6 @@ Wenn Sie das Plugin mögen, freuen wir uns über ein gutes Rating und Ihre Weite
 
 == Installation ==
 
-1. Die neueste Version des Widgets herunterladen.
-2. Zur Admin-Seite __Plugins -> Installieren__ gehen und dort den Tab __Hochladen__ wählen.
-3. Das ZIP-Paket direkt hochladen.
-4. Nach dem Hochladeprozess auf __Aktivieren__ klicken.
-
-
 1. Installieren Sie das Plugin, indem Sie unter __Plugins__ -> __Installieren__ nach "Mietshop Shopsystem" suchen
 2. Klicken Sie anschliessend auf __Installieren__
 3. Das Plugin installiert sich nun automatisch
