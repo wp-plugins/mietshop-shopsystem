@@ -33,8 +33,7 @@ Wenn Sie das Plugin mögen, freuen wir uns über ein gutes Rating und Ihre Weite
 5. Klicken Sie nun auf __Einstellungen__
 6. Tragen Sie dort die URL zu Ihrem Mietshop ein (diese erhalten Sie nach Installation des Shops per Mail).
 
-Diese ist z.B. http://shop.mietshop.de/shop1410345442/cgi-bin/lshop.cgi
-tragen Sie diese vollständig in das Textfeld „Shop URL“ ein.
+Diese ist z.B. http://shop.mietshop.de/shop1410345442/cgi-bin/lshop.cgi, tragen Sie diese vollständig in das Textfeld „Shop URL“ ein (URL wird ggf. automatisch beim Speichern angepasst).
 
 == Changelog ==
 
