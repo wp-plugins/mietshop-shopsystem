@@ -1,6 +1,6 @@
 === Mietshop Shopsystem ===
 Contributors: h.drees
-Plugin URL: http://ottopress.com/wordpress-plugins/mietshop-shopsystem/
+Plugin URL: https://wordpress.org/plugins/mietshop-shopsystem/
 Requires at least: 4.0
 Tested up to: 4.0
 Stable tag: trunk
@@ -12,7 +12,7 @@ Shopsoftware Modul für WordPress. Artikel des Onlineshops per Widget in die Sei
 
 == Description ==
 
-Das kostenlose Plugin ermöglicht die Integration von Artikeln, Bestsellern und Highlight-Produkten aus dem Mietshop Shopsystem. Der Mietshop ermöglicht die einfache Erstellung eines Onlineshop und ist die Voraussetzung für die Nutzung/Funktionsfähigkeit des Wordpress Plugins. Den Mietshop erhalten Sie 6 Monate kostenlos. Erst dann entscheiden Sie sich für eine der günstigen Varianten. Die Inhalte Ihres Mietshops (wie Produkte, Besteller-Box, Highlight der Woche Box, usw..) können Sie in Ihren WordPress Blog an beliebiger Stelle einfügen. Somit erreichen Sie den optimalen Content / Produkt-Mix, mit direkter Verlinkung zu Ihrem Onlineshop.
+Das kostenlose Plugin ermöglicht die Integration von Artikeln, Bestsellern und Highlight-Produkten aus dem Mietshop Shopsystem. Der Mietshop ermöglicht die einfache Erstellung eines Onlineshop und ist die Voraussetzung für die Nutzung/Funktionsfähigkeit des Wordpress Plugins. Den Mietshop erhalten Sie die ersten Monate kostenlos. Erst dann entscheiden Sie sich für eine der günstigen Varianten. Die Inhalte Ihres Mietshops (wie Produkte, Besteller-Box, Highlight der Woche Box, usw..) können Sie in Ihren WordPress Blog an beliebiger Stelle einfügen. Somit erreichen Sie den optimalen Content / Produkt-Mix, mit direkter Verlinkung zu Ihrem Onlineshop.
 
 Einfache Integration via WYSIWYG Editor, viele Einstellmöglichkeiten, gute Anleitung. Der Mietshop ist binnen weniger Sekunden automatisch installiert (Cloudsystem), ist einfach bedienbar und modular erweiterbar: [www.Mietshop.de](http://www.mietshop.de/content/kostenlosen-shop-eroeffnen.html?utm_source=wordpress&utm_medium=plugin&utm_campaign=mietshop-wordpress)
 
@@ -62,7 +62,7 @@ Das Plugin ist dafür gedacht, Produkte im Blog anteasern zu können.
 Das Plugin ist kostenlos.
 
 = Was kostet der Mietshop? =
-Der Mietshop ist die ersten 6 Monate völlig kostenlos. Erst dann entscheiden Sie sich für eine der günstigen kostenpflichtigen Varianten.
+Der Mietshop ist die ersten Monate völlig kostenlos. Erst dann entscheiden Sie sich für eine der günstigen kostenpflichtigen Varianten.
 
 = Kann man auch einen Warenkorb innerhalb Wordpress darstellen? =
 Das ist leider nicht möglich. Ggf. in einer der nachfolgenden Versionen des Plugins.
